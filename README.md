@@ -8,3 +8,8 @@ node index.js
 
 server will start port 3000
 
+
+-------------------------------------------------------------------------------------------
+
+if you want to check line comparision then start different server
+node lineCompare.js
